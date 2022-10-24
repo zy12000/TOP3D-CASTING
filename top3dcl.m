@@ -319,8 +319,9 @@ end
 % Dalian, China                                                            %
 %                                                                          %
 % The code is intended for replication of results in the papaer            %
-% "Variable-height stiffener design using topology optimization with       %
-% anisotropic filter-based casting constraints."                           % 
+% "Zhou, Y., Sun, Y., Xu, S., Wang, B. Variable-height stiffener design    %
+% using topology optimization with anisotropic filter-based casting        %
+% constraints (2022)."                                                     % 
 %                                                                          %
 % This code is modified from the following codes include                   %
 % TOP88, TOP82 in "Andreassen, Erik, et al. Efficient topology             %
